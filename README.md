@@ -2,11 +2,11 @@
 This is a mini-game that makes a computer choose between a specific range of numbers and gives clue to the user on how to guess the correct number the computer has chosen.
 
 ### How to run
-- Install the random package with pip
+- Install the random package with pip using:
 ```sh
 pip install random
 ```
-- Go to your terminal and run 
+- Go to your terminal and run using:
 ```sh
 py app.py
 ```
